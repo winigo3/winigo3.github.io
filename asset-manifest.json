@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49fdfce5.css",
+    "main.js": "/static/js/main.85992bed.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/dhruv.png": "/static/media/dhruv.f5ac01355293aca67721.png",
+    "static/media/Frame.png": "/static/media/Frame.06cb988d819c4f71c1c4.png",
+    "static/media/Salus.png": "/static/media/Salus.c0e261461b51dbc0db60.png",
+    "static/media/TheGeekly.png": "/static/media/TheGeekly.c1c066581f1ef0cfa656.png",
+    "static/media/Aprendiz.png": "/static/media/Aprendiz.8332b40a332fa2ec9005.png",
+    "static/media/Workspace.png": "/static/media/Workspace.2c2f6d7fb03986366b6a.png",
+    "static/media/Sleep.png": "/static/media/Sleep.88d40a508ad92d082d80.png",
+    "static/media/BME.png": "/static/media/BME.0c21194db520d21e289a.png",
+    "static/media/Energy.png": "/static/media/Energy.471f9441b78220df96a4.png",
+    "static/media/Appliances.png": "/static/media/Appliances.5b0f50419464b22798d4.png",
+    "static/media/Shell.png": "/static/media/Shell.84725cbfa7d1b0287bcc.png",
+    "static/media/Sched.png": "/static/media/Sched.04694d8c6ff99b0707b2.png",
+    "static/media/CarboTrack.png": "/static/media/CarboTrack.44bad6b6d506ee2d09b9.png",
+    "static/media/pre.svg": "/static/media/pre.af30bc60b561edd2aef2.svg",
+    "index.html": "/index.html",
+    "main.49fdfce5.css.map": "/static/css/main.49fdfce5.css.map",
+    "main.85992bed.js.map": "/static/js/main.85992bed.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49fdfce5.css",
+    "static/js/main.85992bed.js"
+  ]
+}
