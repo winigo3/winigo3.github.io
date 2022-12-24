@@ -10,6 +10,7 @@ import Service from "./components/Service/Service";
 import Footer from "./components/Footer";
 import {
   BrowserRouter as Router,
+  HashRouter,
   Route,
   Routes,
   Navigate

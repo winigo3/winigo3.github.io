@@ -96,7 +96,6 @@ function Portfolios() {
                         <img src={require("../Home/eports/BME.png")} alt={"BME e portfolio"}/>
                     </CustomPopup>
 
-
                 </Container>
             </Container>
         </section>
