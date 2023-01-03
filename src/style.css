@@ -409,7 +409,7 @@ button:focus {
   font-size: 1.2em !important;
   line-height: 2em !important;
   background: rgba(255, 255, 255, 0.972) !important;
-  border-radius: 15% !important;
+  border-radius: 15px !important;
   transition: 0.5s !important;
   margin-left: 10px;
   margin-right: 10px;

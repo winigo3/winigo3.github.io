@@ -9,13 +9,12 @@ function Type() {
           "Small Home Engineered @ Duke",
           "Smart Home for Emergencies & Disasters",
           "Smart Home Engineered @ Duke",
-          "Sarah, Hammond, Ewill, Dgaby",
           "Small Home for Emergencies & Disasters",
           "Sorry Hammond, Everyone Disagrees",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 75,
+        deleteSpeed: 90,
       }}
     />
   );
