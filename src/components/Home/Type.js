@@ -6,11 +6,12 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Small Home Engineered @ Duke",
-          "Smart Home for Emergencies & Disasters",
           "Smart Home Engineered @ Duke",
-          "Small Home for Emergencies & Disasters",
-          "Sorry Hammond, Everyone Disagrees",
+          "Sketch of the SHED! →",
+          "Smart Home to Explore and Do",
+          "Built by Duke Students",
+          "Small Home Engineered @ Duke",
+          "Email us at thedukeshed@gmail.com",
         ],
         autoStart: true,
         loop: true,
