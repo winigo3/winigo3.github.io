@@ -1,6 +1,8 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 
+{/* "Smart Home to Explore and Do", */}
+
 function Type() {
   return (
     <Typewriter
@@ -8,7 +10,6 @@ function Type() {
         strings: [
           "Smart Home Engineered @ Duke",
           "Sketch of the SHED! →",
-          "Smart Home to Explore and Do",
           "Built by Duke Students",
           "Small Home Engineered @ Duke",
           "Email us at thedukeshed@gmail.com",
